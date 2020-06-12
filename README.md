@@ -1,6 +1,4 @@
-<div align="left">
-  <a href="https://github.com/juanroldan1989/shaken_not_stirred"><img src="https://static1.fashionbeans.com/wp-content/uploads/2019/03/martinimain.jpg" alt="shaken_not_stirred ruby logo" /></a>
-</div>
+<img src="https://media.giphy.com/media/zd1VtTAjLRHNe/giphy.gif" width="100%" />
 
 # ShakenNotStirred
 [![Gem Version](https://badge.fury.io/rb/shaken_not_stirred.svg)](https://badge.fury.io/rb/shaken_not_stirred)
@@ -10,7 +8,7 @@
 <!-- [![Build Status](https://travis-ci.com/juanroldan1989/shaken_not_stirred.svg?branch=master)](https://travis-ci.com/juanroldan1989/shaken_not_stirred) -->
 <!-- [![Coverage Status](https://coveralls.io/repos/github/juanroldan1989/shaken_not_stirred/badge.svg?branch=master)](https://coveralls.io/github/juanroldan1989/shaken_not_stirred?branch=master) -->
 
-Ruby client for [Cocktails API](https://juanroldan.com.ar/cocktails-api-landing)
+Ruby client for [Cocktails API](https://cocktailsapi.xyz)
 
 <!-- API Docs [here](https://juanroldan.com.ar/cocktails-api-docs) -->
 
@@ -38,7 +36,7 @@ gem "shaken_not_stirred", "~> 0.0.7"
 
 ## 1. Usage
 
-All `Free`, `Basic`, `Advanced` and `Premium` plans available [here](https://juanroldan.com.ar/cocktails-api-landing)
+All `Free`, `Basic`, `Advanced` and `Premium` plans available [here](https://cocktailsapi.xyz)
 
 Once completed this quick [form](https://docs.google.com/forms/d/12Ofvx3wg3fIwiS2u41JAv5CNtIExjenU7KVpqyIwMi8/viewform) the API Key will be sent to you by Juan Roldan (`juanroldan1989@gmail.com`)
 
